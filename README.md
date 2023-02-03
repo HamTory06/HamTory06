@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HamTory06&fontSize=90&descAlign=70" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HamTory06&fontSize=90&descAlignY=60" />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamTory06&theme=dark&show_icons=true)
