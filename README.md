@@ -10,6 +10,7 @@
 <div align="center" >
   <img alt="C" style="margin-left:5px; margin-right:5px;" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
   <img alt="Kotlin" style="margin-left:5px;" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="UnrealEngine" src="https://img.shields.io/badge/Unreal-0E1128.svg?&style=for-the-badge&logo=Unreal Engine&logoColor=white"/>
   <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
