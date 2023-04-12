@@ -11,15 +11,20 @@
   <img alt="C" style="margin-left:5px; margin-right:5px;" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img alt="Kotlin" style="margin-left:5px;" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <br>
   <img alt="UnrealEngine" src="https://img.shields.io/badge/Unreal-0E1128.svg?&style=for-the-badge&logo=Unreal Engine&logoColor=white"/>
   <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
-</div><br>
+
 
 
 <h1 align="center">Stats</h1>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamTory06)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamTory06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </div><br>
 <!--
 **HamTory06/HamTory06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
